@@ -1,0 +1,11 @@
+# Compiled Java
+*.class
+out/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
